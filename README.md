@@ -3,7 +3,7 @@ This is my second-brain about basic SQL
 
 `notion` - https://toeysjiji.notion.site/SQL-101-7da800ccb9284ea895edf4b4043120cd?pvs=4 - for better-looking
 
-Data example and ER diagram also in my notion link
+The data example and ER diagram are also available in my Notion link.
 
 ## About basic SQL
 It contains many topic in basic SQL you should know
